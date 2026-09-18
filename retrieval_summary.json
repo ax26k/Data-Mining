@@ -1,0 +1,9 @@
+{
+  "num_notices": 12000,
+  "num_permutations": 128,
+  "ngram_size": 5,
+  "lsh_threshold": 0.5,
+  "same_recall": 0.7741935483870968,
+  "different_survival_rate": 0.5684380032206119,
+  "mean_candidate_count": 4492.368888888889
+}
