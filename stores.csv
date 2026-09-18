@@ -1,0 +1,13 @@
+store_id,store_name,address_line,city,state,region,floor_area_sqft,opened_on
+S01,Annapurna Jayanagar,"142, 9th Main Road, 4th Block, Jayanagar",Bengaluru,Karnataka,South,8200,2011-01-01
+S02,Annapurna Koramangala,"8, 80 Feet Road, 6th Block, Koramangala",Bengaluru,Karnataka,South,6400,2012-04-06
+S03,Annapurna T Nagar,"27, Usman Road, T Nagar",Chennai,Tamil Nadu,South,9100,2013-07-11
+S04,Annapurna Kukatpally,"Plot 61, KPHB Phase 3, Kukatpally",Hyderabad,Telangana,South,5800,2014-10-16
+S05,Annapurna Kochi Marine,"Shop 4-A, Marine Drive, Ernakulam",Kochi,Kerala,South,4200,2015-01-21
+S06,Annapurna Andheri West,"Unit 3, Link Road, Andheri West",Mumbai,Maharashtra,West,7300,2016-04-26
+S07,Annapurna Baner,"Survey 112, Baner Pashan Link Road",Pune,Maharashtra,West,5100,2017-07-04
+S08,Annapurna Satellite,"GF-12, Satellite Road, Jodhpur Village",Ahmedabad,Gujarat,West,4700,2018-10-09
+S09,Annapurna Vaishali,"B-44, Vaishali Nagar Main Road",Jaipur,Rajasthan,North,3900,2019-01-14
+S10,Annapurna Rajouri Garden,"J-7, Ring Road, Rajouri Garden",New Delhi,Delhi,North,8800,2011-04-19
+S11,Annapurna Gomti Nagar,"TC-31, Vibhuti Khand, Gomti Nagar",Lucknow,Uttar Pradesh,North,4400,2012-07-24
+S12,Annapurna Salt Lake,"CF-19, Sector 1, Salt Lake City",Kolkata,West Bengal,East,6100,2013-10-02

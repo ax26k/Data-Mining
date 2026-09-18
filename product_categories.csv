@@ -1,0 +1,15 @@
+category_id,category_name,department,gst_rate
+C01,Biscuits & Snacks,Food,0.18
+C02,Dairy,Fresh,0.05
+C03,Beverages,Food,0.18
+C04,Staples & Grains,Food,0.0
+C05,Edible Oils,Food,0.05
+C06,Spices & Masala,Food,0.05
+C07,Personal Care,Non-Food,0.18
+C08,Home Care,Non-Food,0.18
+C09,Baby Care,Non-Food,0.12
+C10,Frozen & Ready to Eat,Fresh,0.12
+C11,Bakery,Fresh,0.05
+C12,Fruits & Vegetables,Fresh,0.0
+C13,Confectionery,Food,0.18
+C14,Stationery & General,Non-Food,0.12
